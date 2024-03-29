@@ -1,4 +1,4 @@
-## Electron best executor
+## Electron Best Executor
 
 ## Introduction
 
